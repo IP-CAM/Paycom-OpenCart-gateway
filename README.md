@@ -1,1 +1,1 @@
-# Paycom-OpenCart-template
+# Paycom-OpenCart-gateway
